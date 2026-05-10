@@ -20,3 +20,6 @@ case default:
 break;
 
 }
+
+REFERENCES:
+https://www.w3schools.com/cs/cs_switch.php
