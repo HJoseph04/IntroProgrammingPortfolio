@@ -15,5 +15,11 @@ for (int i = [initial value]; i [boolean operator] [length of array]; i++ OR i--
     // additional code if needed
 }
 
+EUREKA:
+During the final, i wasn't sure about the decrement part at first on one of the loops, can't exactly remember where it was. But it was when it was explained before it was officially time when i was tracing the loop that this means iterations for i are going backwards from 6 to 0
+
+COMMON MISTAKE:
+The steps on how to trace the loop. I often forget that in a loop like this, i have to increment each time LAST instead of the third step. That was a big issue i had when studying for the final.
+
 REFERENCES:
 https://www.geeksforgeeks.org/c-sharp/nested-loops-c-sharp/
