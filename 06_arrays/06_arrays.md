@@ -8,7 +8,11 @@ Overall, arrays give your code an efficient way to keep and manage sets of data.
 
 int[] myArray = {number of values}
 
+EUREKA:
+When i did the warmup part during the assignment on Arrays, the i + 1 part, i didn't get what it was doing at first until i realized later on that it was just like the part of the loop where i have to increment by 1 each time i'm done with every iteration.
 
+COMMON MISTAKE:
+Not starting my arrays at 0, especially when i have to trace it.
 
 REFERENCES:
 https://www.w3schools.com/cs/cs_arrays.php
