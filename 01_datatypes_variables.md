@@ -17,7 +17,11 @@ Char (a character that can be a name, letter etc.)
 String (which usually returns a set of something)
 
 
+EUREKA:
+Decimals. Even though i never really use it much, i keep running into problems with it until i realized i needed to use F at the end. At first i didn't think it made much sense since i was a little rusty at that time.
 
+COMMON MISTAKE:
+I initially had trouble with Convert.ToInt. Is it 32? 64? Even with looking at AI prompts, even what it does wasn't too helpful either. It always gives me Parse for some reason, and i didn't want that either.
 
 
 
