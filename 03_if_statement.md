@@ -12,5 +12,11 @@ if (condition)
  // insert code here
 }
 
+EUREKA:
+Big moment was when i was on the Seasons question on assignment 3, i initially had a little trouble with the numbered months and days until i realized it works in a similar way to what i did for the Zodiac signs.
+
+COMMON MISTAKE:
+I assumed the condition was checking what i meant, not by what i wrote, it made the code sometimes behave in a way i didn't want at all.
+
 REFERENCES:
 https://www.w3schools.com/cs/cs_conditions.php
