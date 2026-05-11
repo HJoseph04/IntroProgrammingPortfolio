@@ -9,6 +9,7 @@ But overall, datatypes are the gateway for how a program is organized and how it
 datatype VariableName;
 ______________________
 
+TYPE LIST:
 Int (It can any whole number you can think of)
 Double (Basically a bigger int)
 Decimal (Basically an int, but you specifically give it a decimal
