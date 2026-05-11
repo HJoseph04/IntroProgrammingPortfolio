@@ -15,6 +15,7 @@ returntype FunctionName (insert parameters)
 }
 
 EUREKA:
+When i did 2a in the functions assignment, at first i thought that whole section got me in a rut because i keep mixing up what my function takes versus what it returns. It's when i realized that each prompt goes in this order to fill in the blanks: return type -> function name -> parameters.
 
 COMMON MISTAKE:
 I kept mixing up parameters and arguments, i occasionally changed the parameter inside the function and expected it to update the original variable.
