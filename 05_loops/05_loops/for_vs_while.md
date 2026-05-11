@@ -18,6 +18,11 @@ while (insert condition)
   // code 
 }
 
+EUREKA:
+8th question on the For While assignment. I initially had trouble figuring out how to succesfully implement N, but then i realized that it sort of feels like simplified backwards iterations similar to the one on the final, decrementing.
+
+COMMON MISTAKE:
+I sometimes forget to update the variable to update the condition. It just gives me an infinite loop that goes on and on without stopping.
 
 REFERENCES:
 https://www.w3schools.com/cs/cs_for_loop.php
