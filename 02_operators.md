@@ -30,6 +30,11 @@ Overall, operators are like puzzle pieces that control the logic and math behind
   || OR
   && AND
 
+EUREKA:
+Decimals. Even though i never really use it much, i keep running into problems with it until i realized i needed to use F at the end. At first i didn't think it made much sense since i was a little rusty at that time.
+
+COMMON MISTAKE:
+Determining the = sign when i'm using Boolean operators. Namely when im using that for Strictly equal and Not equal to. I kept confusing myself which of them is really necessary.
 
   REFERENCES:
   https://www.w3schools.com/cs/cs_operators.php
