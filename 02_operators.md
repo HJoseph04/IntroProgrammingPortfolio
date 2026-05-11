@@ -31,7 +31,7 @@ Overall, operators are like puzzle pieces that control the logic and math behind
   && AND
 
 EUREKA:
-Decimals. Even though i never really use it much, i keep running into problems with it until i realized i needed to use F at the end. At first i didn't think it made much sense since i was a little rusty at that time.
+I really started to gain footing with my operators when i got to the IsVowel question on Assignment 3, big problem for me was inplementing what if somebody put in capital letters and it still said it isn't a vowel, so i just repeated what i did with LowerCase and UpperCase just to be specific.
 
 COMMON MISTAKE:
 Determining the = sign when i'm using Boolean operators. Namely when im using that for Strictly equal and Not equal to. I kept confusing myself which of them is really necessary.
