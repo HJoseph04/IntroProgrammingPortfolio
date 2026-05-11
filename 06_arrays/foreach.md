@@ -12,7 +12,7 @@ foreach (datatype variableName in arrayName)
 }
 
 EUREKA:
-When i did a little practice thing on W3schools, i wasn't quite sure what "i" meant in for that whole array as i thought that variable was just a placeholder gor the whole thing. But then when i tested it, it turns out "i" meant for every specific something in the array. 
+When i did a little practice on arrays in class (when i'm really in it and not distracted by something), i wasn't quite sure what "i" meant in for that whole array as i thought that variable was just a placeholder gor the whole thing. But then when i tested it, it turns out "i" meant for every specific something in the array. 
 
 COMMON MISTAKE:
 I often forgot that Foreach only moves forward and can't skip around a value in an array. Whatever's on there must be checked regardless.
