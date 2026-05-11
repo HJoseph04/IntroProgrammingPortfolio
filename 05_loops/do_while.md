@@ -12,5 +12,11 @@ do
 }
 while (insert condition);
 
+EUREKA:
+On Assignment 4, i tried building up on the example i tried to build up on for practice, the ValidInput one to be specific. I wanted to see at the time if 7 worked out (i was still a little rusty at the time), but then what clicked was the boolean logic later on. And the while turned out to be just assuming i put in something that's strictly false.
+
+COMMON MISTAKE:
+The while part of the loop. I kept thinking that even if it's false from the start, i just had to run the loop at least once regardless.
+
 REFERENCES:
 https://www.w3schools.com/cs/cs_while_loop.php
