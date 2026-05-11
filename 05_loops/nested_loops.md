@@ -16,7 +16,7 @@ for (int i = [initial value]; i [boolean operator] [length of array]; i++ OR i--
 }
 
 EUREKA:
-During the final, i wasn't sure about the decrement part at first on one of the loops, can't exactly remember where it was. But it was when it was explained before it was officially time when i was tracing the loop that this means iterations for i are going backwards from 6 to 0
+During Assignment 5 when we did the patterns, i was working on pattern 2 when i kept thinking the inner loop should've started at 1, that's because i forgot that the inner loop doesn't have to start at 1, but rather 0 or i. When i changed the number to 0, it felt more like my wheelhouse since it reminded me of the starting point for when i trace.
 
 COMMON MISTAKE:
 The steps on how to trace the loop. I often forget that in a loop like this, i have to increment each time LAST instead of the third step. That was a big issue i had when studying for the final.
