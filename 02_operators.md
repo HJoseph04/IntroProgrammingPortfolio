@@ -10,11 +10,11 @@ Overall, operators are like puzzle pieces that control the logic and math behind
 
 - Basic Operators
 
-+ Sum
-- Difference
-* Product
-/ Division
-% Modulo
+(+) Sum
+(-) Difference
+(*) Product
+(/) Division
+(%) Modulo
 
 - Comparison Operators
 
@@ -28,6 +28,7 @@ Overall, operators are like puzzle pieces that control the logic and math behind
 - Multi-Use Operators (for multiple conditions)
 
   || OR
+  
   && AND
 
 EUREKA:
