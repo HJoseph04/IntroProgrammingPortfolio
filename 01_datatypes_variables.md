@@ -10,7 +10,7 @@ datatype VariableName;
 ______________________
 
 TYPE LIST:
-Int (It can any whole number you can think of)
+Int (It can be any whole number you can think of)
 
 Double (Basically a bigger int)
 
