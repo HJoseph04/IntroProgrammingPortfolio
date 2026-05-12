@@ -10,8 +10,22 @@ A big advantage of 2D arrays is that they keep related data grouped together in 
 Overall, 2D arrays can give you a structured way to organize information that has two dimensions.
 
 
-
+INITIALIZATION:
 int[] arrayName = new int[];
+
+
+ITERATING:
+int[,] array = new int[values];
+
+for (int i = 0; i < array.Length(size of the array); i++ or i--)
+{
+    for (int j = 0; j < array.Length(size); j++ or j--)
+    {
+        // body
+    }
+    
+}
+
 
 EUREKA:
 Part B of the tracing assignment, which was heavily focused on as part of my tutoring leading up to the final. I kept trying to jump ahead too much in my head when tracing that. But then, things clicked when i drew the array and what it was up to, it turns out that i needed to pay attention to the indexes with how they moved during each pass, i would go through by iteration until the numbers in the array are in order from lowest to highest value.
