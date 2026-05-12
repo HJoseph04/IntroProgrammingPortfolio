@@ -14,5 +14,11 @@ struct MyStruct {
   
 }; 
 
+EUREKA:
+When we redid a previous semester's final exam, i looked at Count and wondered if it's an int or float since it implies that it must store something like numbers or characters. But when i looked at it closer, i realized that Count can be a whole number (int), and for something like HealthScore, it can be either a float or double since it's a rating.
+
+COMMON MISTAKE:
+I sometimes made all the fields the same type just to make things simpler, except that data needed different types in order to make it work better.
+
 REFERENCES:
 https://www.w3schools.com/c/c_structs.php
