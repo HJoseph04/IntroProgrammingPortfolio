@@ -11,10 +11,15 @@ ______________________
 
 TYPE LIST:
 Int (It can any whole number you can think of)
+
 Double (Basically a bigger int)
-Decimal (Basically an int, but you specifically give it a decimal
-Bool (only returns either True or False
+
+Decimal (Basically an int, but you specifically give it a decimal)
+
+Bool (only returns either True or False)
+
 Char (a character that can be a name, letter etc.)
+
 String (which usually returns a set of something)
 
 
